@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IndNews</string>
+    <string name="otp_resend"><u>Resend Otp</u></string>
+</resources>

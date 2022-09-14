@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.IndNews_V1" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/red_500</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/color_app_theme</item>
+        <item name="colorPrimaryDark">@color/color_app_theme</item>
+        <item name="colorAccent">@color/color_status_bar</item>
+    </style>
+
+
+</resources>

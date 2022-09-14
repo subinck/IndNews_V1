@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_300">#FFFF895E</color>
+    <color name="red_400">#FFFF6E39</color>
+    <color name="red_500">#FFFF530E</color>
+    <color name="red_600">#FFFC4D09</color>
+    <color name="red_700">#FFEE4502</color>
+    <color name="red_800">#FFE03E00</color>
+
+    <color name="teal_300">#FFF73D51</color>
+
+    <color name="grey">#FFF2F2F2</color>
+    <color name="black1">#FF222222</color>
+    <color name="black2">#FF000000</color>
+    <color name="white1">#FFFFFFFF</color>
+    <color name="white2">#FFFAFAFA</color>
+
+    <color name="red_alert_dark">#FFB00020</color>
+    <color name="red_alert_light">#FFEF5350</color>
+
+    <color name="color_app_theme">#FFEE4502</color>
+    <color name="color_status_bar">#FFFF6E39</color>
+
+
+</resources>
